@@ -1,3 +1,5 @@
+## 👩‍💻 About me:
+
 ### Hey, fellas! This is Kairon (or just, kai)
 
 Here are some things you should (or not) know about me:
@@ -9,4 +11,4 @@ Here are some things you should (or not) know about me:
 - 📫 Contact me by: kairon.lima1@gmail.com
 - 😄 Pronouns: he/him
 
-> **“Experience is the name everyone gives to their mistakes.” – Oscar Wilde
+> 🎈: **“Experience is the name everyone gives to their mistakes.” – Oscar Wilde**
