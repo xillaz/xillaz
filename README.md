@@ -1,6 +1,6 @@
 ## 👩‍💻 About me:
 
-### Hey, fellas! This is Kairon (or just, kai)
+### Hey, fellas! This is Kairon!
 
 Here are some things you should (or not) know about me:
 
