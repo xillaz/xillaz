@@ -9,3 +9,4 @@ Here are some things you should (or not) know about me:
 - 📫 Contact me by: kairon.lima1@gmail.com
 - 😄 Pronouns: he/him
 
+> “Experience is the name everyone gives to their mistakes.” – Oscar Wilde
