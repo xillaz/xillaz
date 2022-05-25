@@ -1,3 +1,4 @@
+
 # 👩‍💻 About me
 
 ## Hey, fellas! This is Kairon (or just, kai).
@@ -12,6 +13,9 @@
 - 😄 Pronouns: he/him
 
 - 🎈 **“Experience is the name everyone gives to their mistakes.” – Oscar Wilde**
+  <div align = "left">
+  <img align="right" alt="cute cat" height="150" width="200" src="https://raw.githubusercontent.com/kaifritz02/kaifritz02/main/media/cat.gif">
+
 
 <br><br>
 # 📱 Social Media:
@@ -25,14 +29,18 @@
     
 <br><br>
 # 🛠️ Tools Kit
-  <div alig = "left">
+  <div align = "left">
   <img align="center" alt="Greater" height="15" width="15" src="https://user-images.githubusercontent.com/83096504/170286193-9f9b3012-c12d-45d5-ad6b-5f310b46de14.png"> 
   <img align="center" alt="Kai-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Kai-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kai-Csharp" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Kai-Eclipse" height="60" width="60" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/eclipse-icon.png">  
   <img align="center" alt="Kai-VisualStudio" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">  
-  <img align="right" alt="cute cat" width="498" height="373" src="https://media.discordapp.net/attachments/954072031685660713/979159344966938624/cute.gif">
+  </div>
+  
+  <div align = "right">
+  
+  </div>
 
 <br><br>
 # 🏅 Stats
