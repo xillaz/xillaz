@@ -32,7 +32,7 @@
   <img align="center" alt="Kai-Csharp" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Kai-Eclipse" height="60" width="60" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/eclipse-icon.png">  
   <img align="center" alt="Kai-VisualStudio" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">  
-  
+  <img align="right" alt="cute cat" width="498" height="373" src="https://media.discordapp.net/attachments/954072031685660713/979159344966938624/cute.gif">
 
 <br><br>
 # 🏅 Stats
