@@ -1,4 +1,4 @@
-<img align="center" alt="banner" src="https://raw.githubusercontent.com/kaifritz02/kaifritz02/main/media/banner.png">
+<img align="center" alt="banner" src="https://raw.githubusercontent.com/kaifritz02/kaifritz02/main/media/banner.jpg">
 
 # 👩‍💻 About me
 
