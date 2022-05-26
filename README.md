@@ -1,3 +1,5 @@
+
+
 # 👩‍💻 About me
 
 ## Hey, fellas! This is Kairon (or just, kai).
@@ -12,7 +14,6 @@
 - 😄 Pronouns: he/him
 - 🎈 **“Experience is the name everyone gives to their mistakes.” – Oscar Wilde**
 
-<br><br>
 # 📱 Social Media
   <div> <br>
   <a href="https://www.instagram.com/deal_with_kai/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -22,9 +23,9 @@
   <a href="https://twitter.com/theblinkai" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
     </div> 
     
-<br><br>
 
 # 🛠️ Tools Kit
+  <br>
   <div align="right">
   <img align="left" alt="Kai-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="left" alt="Kai-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -34,13 +35,12 @@
   <img align="right" alt="cat" height="170" src="https://raw.githubusercontent.com/kaifritz02/kaifritz02/main/media/cat.gif">
     </div>
 
-<br><br>
 # 🏅 Stats
+  <br>
   <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaifritz02&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaifritz02&layout=compact&langs_count=7&theme=merko"/>
-    <br>
 </div>
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
