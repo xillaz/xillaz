@@ -29,16 +29,16 @@
 # 🛠️ Tools Kit
   <div style="display: inline_block"><br>
   <div>
-  <a align = "left"
-  <img align="left" alt="kai-cat" height="100" src="https://raw.githubusercontent.com/kaifritz02/kaifritz02/main/media/cat.gif">
-    </a>
+  <div align="right">
+  <img align="right" alt="cat" height="200" style="border-radius:50px;" src="https://raw.githubusercontent.com/kaifritz02/kaifritz02/main/media/cat.gif">
+  </div>
   <img align="center" alt="Greater" height="15" width="15" src="https://user-images.githubusercontent.com/83096504/170286193-9f9b3012-c12d-45d5-ad6b-5f310b46de14.png"> 
   <img align="center" alt="Kai-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Kai-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kai-Csharp" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Kai-Eclipse" height="60" width="60" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/eclipse-icon.png">  
   <img align="center" alt="Kai-VisualStudio" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-  <img align="right" alt="cat" height="200" src="https://raw.githubusercontent.com/kaifritz02/kaifritz02/main/media/cat.gif">
+  
   </div>
   
 
