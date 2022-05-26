@@ -12,14 +12,8 @@
 - 😄 Pronouns: he/him
 - 🎈 **“Experience is the name everyone gives to their mistakes.” – Oscar Wilde**
 
-<p align = "right">
 <img align="right" alt="cat" height="170" src="https://media.discordapp.net/attachments/852971206193971261/979185664065151007/here.gif?width=468&height=468">
 </p>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
-
 
 <br><br>
 # 📱 Social Media
