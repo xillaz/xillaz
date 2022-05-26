@@ -36,7 +36,7 @@
   <img align="left" alt="Kai-Csharp" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="left" alt="Kai-Eclipse" height="60" width="60" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/eclipse-icon.png">  
   <img align="left" alt="Kai-VisualStudio" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">  
-  <img align="right" alt="cat" height="100" src="https://raw.githubusercontent.com/kaifritz02/kaifritz02/main/media/cat.gif">
+  <img align="right" alt="cat" height="200" src="https://raw.githubusercontent.com/kaifritz02/kaifritz02/main/media/cat.gif">
   </div>
   
   </div>
