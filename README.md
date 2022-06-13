@@ -32,9 +32,9 @@
   <img align="left" alt="Kai-VisualStudio" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">  
   <img align="right" alt="cat" height="170" src="https://raw.githubusercontent.com/kaifritz02/kaifritz02/main/media/cat.gif">
     </div>
-
+  <br><br><br>
+  
 # 🏅 Stats
-  <br>
   <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaifritz02&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
