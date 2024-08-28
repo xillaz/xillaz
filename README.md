@@ -2,12 +2,12 @@
 
 # 👋 About Me
 
-## Hi, I'm Kairon (but you can call me Kai).
+## Hi, I'm Kairon (but you can call me Kai or Xillaz).
 
 ### A few things you might want to know:
 
 - 🔭 I’m currently working on personal projects.
-- 📚 Learning: Java, C#, and Python.
+- 📚 Learning: Java, C#, and Spring.
 - 🚲 Open to collaboration: I’m eager to learn through hands-on experience!
 - 🔎 Seeking: Internship opportunities.
 - 📫 Reach out: kairon.lima1@gmail.com
@@ -25,7 +25,6 @@
 # 🛠️ Tools & Technologies
 <div align="left">
   <img align="left" alt="Kai-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="left" alt="Kai-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="left" alt="Kai-Csharp" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="left" alt="Kai-Eclipse" height="60" width="60" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/eclipse-icon.png">
   <img align="left" alt="Kai-VisualStudio" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
@@ -40,5 +39,3 @@
     <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xillaz&layout=compact&langs_count=7&theme=merko"/>
   </a>
 </div>
-
-![Snake animation](https://github.com/xillaz/xillaz/blob/output/github-contribution-grid-snake.svg)
