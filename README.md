@@ -30,12 +30,13 @@
   <img align="left" alt="Kai-VisualStudio" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="right" alt="cat" height="170" src="https://raw.githubusercontent.com/kaifritz02/kaifritz02/main/media/cat.gif">
 </div>
-<br><br><br>
+<br><br><br><br><br>
 
 # 🏅 Stats
 <div>
   <a href="https://github.com/kaifritz02">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xillaz&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xillaz&layout=compact&langs_count=7&theme=merko"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xillaz&theme=slateorange&show_icons=true&hide_border=false&count_private=true"/><br><br>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=xillaz&theme=slateorange&hide_border=false"/><br><br>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xillaz&theme=slateorange&show_icons=true&hide_border=false&layout=compact"/>
   </a>
 </div>
