@@ -1,4 +1,4 @@
-<img align="center" alt="banner" src="https://raw.githubusercontent.com/kaifritz02/kaifritz02/main/media/banner.jpg">
+<img align="center" alt="banner" src="https://raw.githubusercontent.com/xillaz/xillaz/main/media/banner.jpg">
 
 # 👋 About Me
 
@@ -36,9 +36,9 @@
 # 🏅 Stats
 <div>
   <a href="https://github.com/kaifritz02">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaifritz02&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaifritz02&layout=compact&langs_count=7&theme=merko"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xillaz&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xillaz&layout=compact&langs_count=7&theme=merko"/>
   </a>
 </div>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/xillaz/xillaz/blob/output/github-contribution-grid-snake.svg)
