@@ -2,7 +2,7 @@
 
 # 👋 About Me
 
-## Hi, I'm Kairon (but you can call me Kai or Xillaz).
+## Hi, I'm Kairon!
 
 ### A few things you might want to know:
 
@@ -12,7 +12,17 @@
 - 🔎 Seeking: Internship opportunities.
 - 📫 Reach out: kairon.lima1@gmail.com
 - 😄 Pronouns: he/him
-- 🎈 **“Experience is the name everyone gives to their mistakes.” – Oscar Wilde**
+- 🧠 **“Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson**
+
+# 🏅 Stats
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaironlcb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaironlcb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
+</div>
+
+###
 
 # 📱 Social Media
 <div> 
@@ -30,13 +40,16 @@
   <img align="left" alt="Kai-VisualStudio" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="right" alt="cat" height="170" src="https://raw.githubusercontent.com/kaifritz02/kaifritz02/main/media/cat.gif">
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaironlcb/kaironlcb/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaironlcb/kaironlcb/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kaironlcb/kaironlcb/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 <br><br><br><br><br>
 
-# 🏅 Stats
-<div>
-  <a href="https://github.com/kaironlcb">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xillaz&theme=slateorange&show_icons=true&hide_border=false&count_private=true"/><br><br>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=xillaz&theme=slateorange&hide_border=false"/><br><br>
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xillaz&theme=slateorange&show_icons=true&hide_border=false&layout=compact"/>
-  </a>
-</div>
+
